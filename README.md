@@ -1,23 +1,25 @@
-<img src="banner.svg" width="100%" alt="Ven. ENG CHANTHOEURN Portfolio Banner" />
+<p align="center">
+  <img src="banner.svg" width="100%" alt="Ven. ENG CHANTHOEURN Portfolio Banner" />
+</p>
 
 <br/>
 
 <table width="100%" border="0" cellpadding="0" cellspacing="0">
   <tr>
-    <td width="30%" align="center" valign="top">
+    <td width="35%" align="center" valign="top">
       <br/>
-      <img src="profile.jpg" width="160" style="border-radius: 50%; border: 3px solid #6366f1; box-shadow: 0 4px 10px rgba(0,0,0,0.15);" alt="Ven. ENG CHANTHOEURN" />
+      <img src="profile.jpg" width="180" style="border-radius: 50%; border: 4px solid #ea580c; box-shadow: 0 4px 15px rgba(234, 88, 12, 0.25);" alt="Ven. ENG CHANTHOEURN" />
       <br/><br/>
-      <h3><b>វ៉ែន អេងចាន់ធឿន</b></h3>
+      <h2><b>វ៉ែន អេងចាន់ធឿន</b></h2>
       <p><i>Ven. ENG CHANTHOEURN</i></p>
       <p>📍 Battambang, Cambodia</p>
-      <a href="mailto:ven.engchanthoeurn@gmail.com"><img src="https://img.shields.io/badge/Email-Contact_Me-blue?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
+      <a href="mailto:ven.engchanthoeurn@gmail.com"><img src="https://img.shields.io/badge/Email-Contact_Me-orange?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
       <br/>
       <a href="https://youtube.com/@VengChanthoeurn-he3ny" target="_blank"><img src="https://img.shields.io/badge/YouTube-Channel_Veng-red?style=flat-square&logo=youtube&logoColor=white" alt="YouTube" /></a>
     </td>
-    <td width="70%" valign="top" style="padding-left: 25px;">
+    <td width="65%" valign="top" style="padding-left: 25px;">
       <br/>
-      <h2>សួស្តី និងស្វាគមន៍មកកាន់ទំព័ររបស់ខ្ញុំ! 👋</h2>
+      <h2>សូមស្វាគមន៍មកកាន់ទំព័រប្រវត្តិរូបរបស់ខ្ញុំ! 🙏</h2>
       <p align="justify">
         ខ្ញុំបាទជាអ្នកអភិវឌ្ឍន៍កម្មវិធី <b>Full-Stack Developer</b> ដែលមានការប្តេជ្ញាចិត្តខ្ពស់ក្នុងការស្រាវជ្រាវ និងបង្កើតដំណោះស្រាយបច្ចេកវិទ្យាឌីជីថលជាភាសាខ្មែរ។ ខ្ញុំចូលចិត្តកូដកម្មវិធីប្រភេទ <b>PWA (Progressive Web Apps)</b>, ប្រព័ន្ធគ្រប់គ្រងទិន្នន័យលើបណ្តាញវែប និងបណ្ណាល័យកូដផ្សេងៗ ដើម្បីជួយសម្រួលការងារប្រចាំថ្ងៃរបស់ស្ថាប័នអប់រំ និងសាសនានៅក្នុងប្រទេសកម្ពុជា។
       </p>
@@ -52,12 +54,12 @@
 
 ---
 
-## 🚀 ស្នាដៃ និងគម្រោងសំខាន់ៗ (Featured Projects)
+## 🚀 ស្នាដៃ និងគម្រោងសំមេរ (Featured Projects)
 
 <table width="100%">
   <tr>
-    <td width="50%" valign="top">
-      <h3>📚 KDLMS — បណ្ណាល័យឌីជីថលខ្មែរ</h3>
+    <td width="50%" valign="top" style="border: 1px solid #e2e8f0; border-radius: 8px; padding: 15px; background-color: #fafafa;">
+      <h3 style="color: #ea580c;">📚 KDLMS — បណ្ណាល័យឌីជីថលខ្មែរ</h3>
       <p><b>Khmer Digital Library Management System</b></p>
       <p>ប្រព័ន្ធគ្រប់គ្រងបណ្ណាល័យឌីជីថលលំដាប់ Full-Stack (PHP/MySQL) បង្កើតឡើងជាប្រភេទ PWA (Progressive Web App) ដែលអាចដំណើរការក្រៅបណ្តាញ និងដំឡើងលើទូរស័ព្ទដៃបាន។</p>
       <details>
@@ -70,13 +72,14 @@
           <li>📱 <b>PWA Feature:</b> អាចដំណើរការក្រៅបណ្តាញ (Offline) និងដំឡើងប្រើប្រាស់បាន</li>
         </ul>
       </details>
+      <br/>
       <p><i>Technologies: PHP 8.2, PDO, MySQL, Bootstrap 5.3, Service Worker, Chart.js</i></p>
       <p align="right">
-        <a href="https://github.com/venengchanthoeurn-a11y/KDLMS"><b>💻 មើលកូដនៅក្នុង Repo ➔</b></a>
+        <a href="https://github.com/venengchanthoeurn-a11y/KDLMS" style="color: #ea580c; font-weight: bold;">💻 មើលកូដនៅក្នុង Repo ➔</a>
       </p>
     </td>
-    <td width="50%" valign="top">
-      <h3>🛕 Wat Indakhilaram Thmor Koul System</h3>
+    <td width="50%" valign="top" style="border: 1px solid #e2e8f0; border-radius: 8px; padding: 15px; background-color: #fafafa;">
+      <h3 style="color: #ea580c;">🛕 Wat Indakhilaram Thmor Koul System</h3>
       <p><b>ប្រព័ន្ធគ្រប់គ្រងវត្តឥន្ទខីលារាម ថ្មគោល</b></p>
       <p>ប្រព័ន្ធគ្រប់គ្រងរដ្ឋបាល ហិរញ្ញវត្ថុ និងធនធានមនុស្សផ្ទៃក្នុងវត្តអារាមយ៉ាងទូលំទូលាយ ជួយសម្រួលការងារប្រចាំថ្ងៃរបស់ព្រះសង្ឃ និងគណៈកម្មការវត្ត។</p>
       <details>
@@ -89,15 +92,16 @@
           <li>🖨️ <b>QR Code Generator:</b> បង្កើតកាត QR Code ស្វ័យប្រវត្តសម្រាប់ព្រះសង្ឃនីមួយៗ</li>
         </ul>
       </details>
+      <br/>
       <p><i>Technologies: PHP, MySQL, Vanilla JS/CSS, Telegram Bot API, AI Integration, TCPDF</i></p>
       <p align="right">
-        <a href="https://github.com/venengchanthoeurn-a11y/wat-indakhilaram-thmor-koul"><b>💻 មើលកូដនៅក្នុង Repo ➔</b></a>
+        <a href="https://github.com/venengchanthoeurn-a11y/wat-indakhilaram-thmor-koul" style="color: #ea580c; font-weight: bold;">💻 មើលកូដនៅក្នុង Repo ➔</a>
       </p>
     </td>
   </tr>
   <tr>
-    <td colspan="2" valign="top">
-      <h3>📅 momentkh (បណ្ណាល័យប្រតិទិនចន្ទគតិខ្មែរ)</h3>
+    <td colspan="2" valign="top" style="border: 1px solid #e2e8f0; border-radius: 8px; padding: 15px; background-color: #fafafa;">
+      <h3 style="color: #ea580c;">📅 momentkh (បណ្ណាល័យប្រតិទិនចន្ទគតិខ្មែរ)</h3>
       <p><b>Khmer Lunar Calendar utility for JavaScript</b></p>
       <p>បណ្ណាល័យកូដបន្ថែម (Add-on) លើ Moment.js ពេញនិយម ដើម្បីបំប្លែងកាលបរិច្ឆេទគ្រិស្តសករាជទៅជាថ្ងៃខែឆ្នាំចន្ទគតិខ្មែរ និងគណនាម៉ោងទេវតាចុះក្នុងឱកាសបុណ្យចូលឆ្នាំថ្មីប្រពៃណីជាតិ។</p>
       <details>
@@ -108,9 +112,10 @@
           <li>⚙️ <b>Custom Format:</b> អាចកំណត់ទម្រង់បង្ហាញកាលបរិច្ឆេទដោយខ្លួនឯងបានច្រើនទម្រង់ (W, d, m, a, b...)</li>
         </ul>
       </details>
+      <br/>
       <p><i>Technologies: JavaScript (ES6), Moment.js, Soriyatra Calendar Algorithm</i></p>
       <p align="right">
-        <a href="https://github.com/venengchanthoeurn-a11y/momentkh"><b>💻 មើលកូដនៅក្នុង Repo ➔</b></a>
+        <a href="https://github.com/venengchanthoeurn-a11y/momentkh" style="color: #ea580c; font-weight: bold;">💻 មើលកូដនៅក្នុង Repo ➔</a>
       </p>
     </td>
   </tr>
@@ -121,13 +126,13 @@
 ## 📊 ស្ថិតិការងារលើ GitHub (GitHub Statistics)
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=venengchanthoeurn-a11y&show_icons=true&theme=tokyonight&count_private=true" alt="Ven. ENG CHANTHOEURN's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=venengchanthoeurn-a11y&show_icons=true&title_color=ea580c&icon_color=ea580c&text_color=94a3b8&bg_color=0b0f19&border_color=1e293b&count_private=true" alt="Ven. ENG CHANTHOEURN's GitHub Stats" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=venengchanthoeurn-a11y&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=venengchanthoeurn-a11y&layout=compact&title_color=ea580c&icon_color=ea580c&text_color=94a3b8&bg_color=0b0f19&border_color=1e293b" alt="Top Languages" />
 </p>
 
 ---
 
 <p align="center">
-  <i>អរគុណសម្រាប់ការចូលមកកាន់ទំព័ររបស់ខ្ញុំ! / Thank you for visiting my profile!</i> 🙏
+  <i>អរគុណសម្រាប់ការចូលមកកាន់ទំព័ររបស់ខ្ញុំ! / Thank you for visiting my profile!</i> ￼
 </p>
